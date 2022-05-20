@@ -201,6 +201,10 @@ h3 {
 	letter-spacing: 1px;
 }
 
+.link-img {
+	margin-left: 5px;
+}
+
 .blog__date {
 	font-size: 0.875rem;
 }
